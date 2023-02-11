@@ -13,9 +13,9 @@ Week    |       Topics    |   Assignment
 1       | [Prototyping & Storytelling](#) + [Artifical Intellience] | [A01: Conversation Design](#)
 2       | [Augmented Reality](#) | [A02: Visual Annotation](#)
 3       | [Interactive Video](#) | [A03: Simple Banner](#)
-4       | [Design thinking](#) | [Project ideation](#) 
-5       | [Project management](#) | [Prototyping](#)
-6       | [Project presentation](#)  | [Peer review](#)
+4       | [Design Thinking](#) | [Project Ideation](#) 
+5       | [Project Management](#) | [Prototyping](#)
+6       | [Project Presentation](#)  | [Peer Review](#)
 
 
 
