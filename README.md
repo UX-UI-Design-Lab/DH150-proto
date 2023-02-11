@@ -8,4 +8,17 @@ This 6-week online course covers UX prototyping as interactive storytelling in a
 [2023 Summer](https://docs.google.com/document/d/1JhO6vuZM6y4nssCSYytnG5FyDxx3pDD96jZlVJwy9J0/edit?usp=sharing)
 
 ## Course Calendar
+Week    |       Topics    |   Assignment 
+--------|----------------------------------------------|------------------------
+1       | [Prototyping & Storytelling](#) + [Artifical Intellience] | [A01: Conversation Design](#)
+2       | [Augmented Reality](#) | [A02: Visual Annotation](#)
+3       | [Interactive Video](#) | [A03: Simple Banner](#)
+4       | [Design thinking](#) | [Project ideation](#) 
+5       | [Project management](#) | [Prototyping](#)
+6       | [Project presentation](#)  | [Peer review](#)
+
+
+
+## Contact
+Sookie at g dot ucla dot edu
 
