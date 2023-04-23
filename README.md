@@ -10,7 +10,7 @@ This 6-week online course covers UX prototyping as interactive storytelling in a
 ## Course Calendar
 Week    |       Topics    |   Assignment 
 --------|----------------------------------------------|------------------------
-1       | [Prototyping & Storytelling](#) + [Artifical Intellience] | [A01: Conversation Design](#)
+1       | [Prototyping & Storytelling](#) + [Artificial Intelligence] | [A01: Conversation Design](#)
 2       | [Augmented Reality](#) | [A02: Visual Annotation](#)
 3       | [Interactive Video](#) | [A03: Simple Banner](#)
 4       | [Design Thinking](#) | [Project Ideation](#) 
